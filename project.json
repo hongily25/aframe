@@ -1,0 +1,11 @@
+{
+  "name": "apex-aframe",
+  "description": "aframe apex lambda alexa",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::913515893053:role/apex-aframe_lambda_function",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  },
+  "environment": {}
+}
